@@ -1,4 +1,4 @@
-# implement-password-text-in-console
+# implement password text in console
 
 This is how password text is implemented in Windows Batch Scripting (Console)
 
