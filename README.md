@@ -14,7 +14,7 @@ Today I Learned
 ### Python
 
 - [First Django Commands](python/first-django-commands.md)
-- [Getting Non downloadable Slideshare Presentation using Curl and Python](python/Getting-Non-downloadable-Slideshare-Presentation-using-Curl-and-Python.md)
+- [Getting Non downloadable Slideshare Presentation using wget and Python](python/Getting-Non-downloadable-Slideshare-Presentation-using-wget-and-Python.md)
 
 ### Batch
 - [Implement Password text in console](batch/implement-password-text-in-console.md)

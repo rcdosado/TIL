@@ -2,7 +2,7 @@
 
 this uses the wonderful Beautifulsoup library to navigate 
 the html jungle of slideshare, and harvest slide links.
-these links in turn will be given to CURL to directly download
+these links in turn will be given to wget to directly download
 to a folder named dumphere at the current directory.
 
 downloads even non downloadable slides. 
