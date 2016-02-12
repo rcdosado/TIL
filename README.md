@@ -4,6 +4,7 @@ Today I Learned
 ###Categories
 
 * [Python](#python)
+* [Batch](#batch)
 * [CSharp](#csharp)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -14,6 +15,9 @@ Today I Learned
 
 - [First Django Commands](python/first-django-commands.md)
 - [Getting Non downloadable Slideshare Presentation using Curl and Python](python/Getting-Non-downloadable-Slideshare-Presentation-using-Curl-and-Python.md)
+
+### Batch
+- [Implement Password text in console](batch/implement-password-text-in-console.md)
 
 ## About
 
