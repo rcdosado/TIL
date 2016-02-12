@@ -13,6 +13,7 @@ Today I Learned
 ### Python
 
 - [First Django Commands](python/first-django-commands.md)
+- [Getting Non downloadable Slideshare Presentation using Curl and Python](python/Getting-Non-downloadable-Slideshare-Presentation-using-Curl-and-Python.md)
 
 ## About
 
