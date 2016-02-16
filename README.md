@@ -8,6 +8,7 @@ Today I Learned
 * [CSharp](#csharp)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Linux](#linux)
 
 --
 
@@ -18,6 +19,9 @@ Today I Learned
 
 ### Batch
 - [Implement Password text in console](batch/implement-password-text-in-console.md)
+
+### Linux
+- [Convert RPM to DEB](linux/convert-rpm-to-deb.md)
 
 ## About
 
