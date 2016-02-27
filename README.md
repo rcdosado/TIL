@@ -15,6 +15,7 @@ Today I Learned
 ### Python
 
 - [First Django Commands](python/first-django-commands.md)
+- [How to add pagination in Django](python/How-to-add-pagination-in-Django.md)
 - [Getting Non downloadable Slideshare Presentation using wget and Python](python/Getting-Non-downloadable-Slideshare-Presentation-using-wget-and-Python.md)
 - [Create Python 3 Virtual environment using python3](python/Create-Python-3-Virtual-environment-using-python3.md)
 
