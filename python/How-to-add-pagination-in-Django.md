@@ -1,7 +1,9 @@
-# How to add pagination in Django
+# How to add Pagination in Django
 
-This will allow you instant pagination using built in django library
-today i learned 2 ways how to do this.
+today i learned two ways how to add Pagination in Django
+this allows you instant pagination using built in django library
+
+put your pagination codes inside your views.py
 
 ```Python
 from django.views.generic import ListView
