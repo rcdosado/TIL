@@ -19,6 +19,10 @@ set scripts=c:\dev\python\projects\myenv\Scripts
 cd %scripts% & activate.bat & cd.. & cd mysite & cls
 
 ```
+### what it really does:
+ it asynchronously runs chrome, firefox , opens a pdf document, starts wing-ide (python IDE)
+ and automatically goes to virtualenv environment and activates it, the virtual environment is a django project
+ by the way.
 
  to minimize the navigation of directories, its best to save this to your home directory
  the reason is, it is the default location when you type win+r and cmd
@@ -28,11 +32,6 @@ cd %scripts% & activate.bat & cd.. & cd mysite & cls
  if you remove start in the beginning of command, it waits for the application to close before returning (synchronous)
 
  the "" after start, is trick for applications who has spaces in its path. if you remove this, it will just create a new DOS instance.
-
-what it does:
- it asynchronously runs chrome, firefox , opens a pdf document, starts wing-ide (python IDE)
- and automatically goes to virtualenv environment and activates it, the virtual environment is a django project
- by the way. 
 
  after it executes, ill just ` python manage.py runserver ` to run my django project.
 
