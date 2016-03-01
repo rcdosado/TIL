@@ -28,7 +28,7 @@ Today I Learned
 
 ## About
 
-Idea came from a post from news.ycombinator.com
+Idea came from a post from news.ycombinator.com, didnt remember the URL.
 
 ## License
 
@@ -36,3 +36,4 @@ Idea came from a post from news.ycombinator.com
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
+
