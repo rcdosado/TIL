@@ -21,7 +21,7 @@ Today I Learned
 
 ### Batch
 - [Implement Password text in console](batch/implement-password-text-in-console.md)
-- [Automate start up of application in windows](batch/automate-start-up-of-application-in-windows.md)
+- [Automate start up of application in windows](batch/Automate-start-up-of-application-in-windows.md)
 
 ### Linux
 - [Convert RPM to DEB](linux/convert-rpm-to-deb.md)
