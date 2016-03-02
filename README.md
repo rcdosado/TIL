@@ -26,6 +26,7 @@ Today I Learned
 ### Linux
 - [Convert RPM to DEB](linux/convert-rpm-to-deb.md)
 - [Installing Ubuntu with partitions](linux/Installing-Ubuntu-with-partitions.md)
+
 ## About
 
 Idea came from a post from news.ycombinator.com, didnt remember the URL.
