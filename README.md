@@ -26,6 +26,7 @@ Today I Learned
 ### Linux
 - [Convert RPM to DEB](linux/convert-rpm-to-deb.md)
 - [Installing Ubuntu with partitions](linux/Installing-Ubuntu-with-partitions.md)
+- [Changing Username in Ubuntu](linux/Changing-Username-in-Ubuntu.md)
 
 ## About
 
