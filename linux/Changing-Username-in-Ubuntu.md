@@ -5,10 +5,10 @@ condensed from a webpage here http://askubuntu.com/questions/558669/renaming-use
 
 Here are the steps:
 
--1. you need to add another Admin account for this to happen
-0. login using that account(not the one you would change)
-1. fire up the terminal ctrl+alt+t
-2. you cannot change your own username, because it needs killing your own process
+1. you need to add another Admin account for this to happen
+2. login using that account(not the one you would change)
+3. fire up the terminal ctrl+alt+t
+4. you cannot change your own username, because it needs killing your own process
 so you will have to login as another admin user, and apply commands for that
 
     ```Bash
