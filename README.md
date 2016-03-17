@@ -28,6 +28,7 @@ Today I Learned
 - [Convert RPM to DEB](linux/convert-rpm-to-deb.md)
 - [Installing Ubuntu with partitions](linux/Installing-Ubuntu-with-partitions.md)
 - [Changing Username in Ubuntu](linux/Changing-Username-in-Ubuntu.md)
+- [Install ubuntu in VirtualBox using bootable flashdrive with ubuntu installer](linux/Install-ubuntu-in-VirtualBox-using-bootable-flashdrive-with-ubuntu-installer.md)
 
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
