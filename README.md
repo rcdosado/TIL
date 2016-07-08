@@ -30,9 +30,11 @@ Today I Learned
 - [Changing Username in Ubuntu](linux/Changing-Username-in-Ubuntu.md)
 - [Install ubuntu in VirtualBox using bootable flashdrive with ubuntu installer](linux/Install-ubuntu-in-VirtualBox-using-bootable-flashdrive-with-ubuntu-installer.md)
 
+### Git
+- [Upload project to github](git/upload-project-to-github.md)
+
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
-
 
 ## About
 
