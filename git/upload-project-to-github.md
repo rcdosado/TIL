@@ -9,6 +9,7 @@ B. copy the link (one that ends in .git) from your repo
 C. go to the root of your local repo
 then type:
 	```Bash
+	
 	git remote add origin <link> 
 	git pull <link>
 	git push
