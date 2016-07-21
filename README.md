@@ -9,6 +9,7 @@ Today I Learned
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [CSS](#css)
 * [Etc](#etc)
 
 --
@@ -35,6 +36,9 @@ Today I Learned
 
 ### Git
 - [Upload project to github](git/upload-project-to-github.md)
+
+### CSS
+- [foo foo foo](css/foo-foo-foo.md)
 
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
