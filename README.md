@@ -36,6 +36,7 @@ Today I Learned
 
 ### Git
 - [Upload project to github](git/upload-project-to-github.md)
+- [How to remove file from Git Repo w/o removing it physically][git/remove-from-git-repo.md]
 
 ### CSS
 - [foo foo foo](css/foo-foo-foo.md)
