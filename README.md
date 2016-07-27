@@ -41,6 +41,9 @@ Today I Learned
 ### CSS
 - [foo foo foo](css/foo-foo-foo.md)
 
+### Javascript
+- [how-to-use-browser-printer.md](Javascript/how-to-use-browser-printer.md)
+
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
 
