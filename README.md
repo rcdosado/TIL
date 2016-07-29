@@ -22,6 +22,7 @@ Today I Learned
 - [Create Python 3 Virtual environment using python3](python/Create-Python-3-Virtual-environment-using-python3.md)
 - [How to use Django-taggit](python/how-to-use-django-taggit.md)
 - [How to create custom template tags ](python/How-to-create-custom-template-tags.md)
+- [How to add RSS to your Blog made of Django ](python/How-to-add-RSS-to-your-Blog-made-of-Django.md)
 
 
 ### Batch
