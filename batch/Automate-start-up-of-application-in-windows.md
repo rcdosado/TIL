@@ -19,7 +19,7 @@ set scripts=c:\dev\python\projects\myenv\Scripts
 cd %scripts% & activate.bat & cd.. & cd mysite & cls
 
 ```
-### what it really does:
+### what it does:
  it asynchronously runs chrome, firefox , opens a pdf document, starts wing-ide (python IDE)
  and automatically goes to virtualenv environment and activates it, the virtual environment is a django project
  by the way.
