@@ -23,6 +23,7 @@ Today I Learned
 - [How to use Django-taggit](python/how-to-use-django-taggit.md)
 - [How to create custom template tags ](python/How-to-create-custom-template-tags.md)
 - [How to add RSS to your Blog made of Django ](python/How-to-add-RSS-to-your-Blog-made-of-Django.md)
+- [How to combine multiple Python Versions in one OS w/o conflicts](python/combine-multiple-python-versions-in-OS.md)
 
 
 ### Batch
