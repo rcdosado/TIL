@@ -29,6 +29,7 @@ Today I Learned
 ### Batch
 - [Implement Password text in console](batch/implement-password-text-in-console.md)
 - [Automate start up of application in windows](batch/Automate-start-up-of-application-in-windows.md)
+- [Convert Videos Dimensions (using FFMPEG)](batch/convert-videos-dimensions.md)
 
 ### Linux
 - [Convert RPM to DEB](linux/convert-rpm-to-deb.md)
