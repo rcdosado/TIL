@@ -8,6 +8,7 @@ i think having an example explains it best
 
 ```Batch
 ffmpeg -i in.mp4 -vf scale=394:216 out.avi
+ffmpeg -i input.avi -vf scale=320:240 output.avi
 ```
 
 You may refer to this list for standard dimensions
