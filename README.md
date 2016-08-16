@@ -42,7 +42,7 @@ Today I Learned
 - [How to remove file from Git Repo w/o removing it physically](git/remove-from-git-repo.md)
 
 ### CSS
-- [foo foo foo](css/foo-foo-foo.md)
+- [Creating Cards using Bootstrap as Template](css/create-cards-using-bootstrap.md)
 
 ### Javascript
 - [how-to-use-browser-printer.md](Javascript/how-to-use-browser-printer.md)
