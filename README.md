@@ -50,6 +50,7 @@ Today I Learned
 
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
+- [Extact signature from photos](etc/extracting-signatures-from-photo.md)
 
 ## About
 
