@@ -36,6 +36,7 @@ Today I Learned
 - [Installing Ubuntu with partitions](linux/Installing-Ubuntu-with-partitions.md)
 - [Changing Username in Ubuntu](linux/Changing-Username-in-Ubuntu.md)
 - [Install ubuntu in VirtualBox using bootable flashdrive with ubuntu installer](linux/Install-ubuntu-in-VirtualBox-using-bootable-flashdrive-with-ubuntu-installer.md)
+- [Fix corrupted boot table using grub](linux/Fix-corrupted-boot-table-using-grub.md)
 
 ### Git
 - [Upload project to github](git/upload-project-to-github.md)
