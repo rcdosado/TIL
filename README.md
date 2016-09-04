@@ -8,6 +8,7 @@ Today I Learned
 * [CSharp](#csharp)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Php](#Php)
 * [Linux](#linux)
 * [CSS](#css)
 * [Etc](#etc)
@@ -48,6 +49,10 @@ Today I Learned
 ### Javascript
 - [how-to-use-browser-printer.md](Javascript/how-to-use-browser-printer.md)
 - [Using-FlexBoxGrid-and-Jquery-getJSON.md](Javascript/Using-FlexBoxGrid-and-Jquery-getJSON.md)
+
+### Php
+- [how-to-use-namespace.md](Php/how-to-use-namespace.md)
+
 
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
