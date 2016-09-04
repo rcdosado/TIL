@@ -53,7 +53,6 @@ Today I Learned
 ### Php
 - [how-to-use-namespace.md](Php/how-to-use-namespace.md)
 
-
 ### Etc
 - [Interesting German words](etc/Interesting-German-words.md)
 - [Extact signature from photos](etc/extracting-signatures-from-photo.md)
